@@ -114,7 +114,7 @@ dia 4: 2h 30 min
   <tr>
    <td>Conceito de classe, objeto, módulo
    </td>
-   <td>ALEATÓRIO
+   <td>
    </td>
    <td>40 min + 10 min
    </td>
@@ -233,30 +233,19 @@ dia 4: 2h 30 min
 **Conteúdo minicurso:**
 
 
-
-* **Apresentação Pyladies:**
-
-**	**O PyLadies é uma comunidade mundial que foi trazida ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica. Possui x Pyladies em todo o Brasil. Somos o grupo de Bioinformática dentro do Pyladies brasil, possuímos dois grupos de estudos: Exercícios do rosalind e conceitos biopython. 
-
-
-
 * **Material: Colab**
 
-**Dia 1: **
 
-**[https://colab.research.google.com/drive/1ja3jdl37GGSpwyTPZiRybITzY5YXzVr1?usp=sharing](https://colab.research.google.com/drive/1ja3jdl37GGSpwyTPZiRybITzY5YXzVr1?usp=sharing)**
+**[DIA 1](https://colab.research.google.com/drive/1ja3jdl37GGSpwyTPZiRybITzY5YXzVr1?usp=sharing)**
 
-**Dia 2: **
 
-**[https://colab.research.google.com/drive/1cP1J04O67JPAXGQz2sUbsSA7N6CEOh-7?usp=sharing](https://colab.research.google.com/drive/1cP1J04O67JPAXGQz2sUbsSA7N6CEOh-7?usp=sharing)**
+**[DIA 2](https://colab.research.google.com/drive/1cP1J04O67JPAXGQz2sUbsSA7N6CEOh-7?usp=sharing)**
 
-**Dia 3: **
 
-**[https://colab.research.google.com/drive/1AgWoD2cAH5fzJUvCnvz2DGf_MKmNqQTF?usp=sharing](https://colab.research.google.com/drive/1AgWoD2cAH5fzJUvCnvz2DGf_MKmNqQTF?usp=sharing)**
+**[DIA 3](https://colab.research.google.com/drive/1AgWoD2cAH5fzJUvCnvz2DGf_MKmNqQTF?usp=sharing)**
 
-**Dia 4: **
 
-**[https://colab.research.google.com/drive/1R97uwCLvGz36mem-hM2S1FAjUbp2K9Ui?usp=sharing](https://colab.research.google.com/drive/1R97uwCLvGz36mem-hM2S1FAjUbp2K9Ui?usp=sharing)**
+**[DIA 4](https://colab.research.google.com/drive/1R97uwCLvGz36mem-hM2S1FAjUbp2K9Ui?usp=sharing)**
 
 
     	
