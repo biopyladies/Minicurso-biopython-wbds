@@ -38,9 +38,9 @@ Conversion notes:
 
 **[Tutorial.pdf (biopython.org)](https://biopython.org/DIST/docs/tutorial/Tutorial.pdf)**
 
-**Agenda minicurso: **4 dias de 2 horas 30 min (8 horas)
+**Agenda minicurso:** 4 dias de 2 horas 30 min (8 horas)
 
-	dia 1: 2h 30 min
+dia 1: 2h 30 min
 
 
 
