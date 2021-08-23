@@ -122,9 +122,9 @@ dia 4: 2h 30 min
    </td>
   </tr>
   <tr>
-   <td>Objeto sequência
+   <td>Objeto seq
    </td>
-   <td>3 - Objeto sequência
+   <td>3 - Objeto seq
    </td>
    <td>40 min + 10 min
    </td>
